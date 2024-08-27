@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BinsStoryApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(BinsStoryApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(BinsStoryApplication.class, args);
+	}
 
 }
